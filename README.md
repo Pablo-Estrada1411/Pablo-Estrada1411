@@ -1,6 +1,6 @@
 # 👨‍💻 Ingeniero en Sistemas | Desarrollador Full Stack en evolución | Apasionado por crear soluciones escalables
 
-![Capsule render] (https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Pablo%20Estrada&fontColor=fff&reversal=false&section=header&fontAlign=50&textBg=false&fontSize=70&fontAlignY=35)
+![Capsule render](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Pablo%20Estrada&fontColor=fff&reversal=false&section=header&fontAlign=50&textBg=false&fontSize=70&fontAlignY=35)
 
 Soy **Ingeniero en Sistemas** con pensum cerrado y experiencia profesional en desarrollo **BackEnd** y **FrontEnd**. Actualmente trabajo resolviendo retos técnicos con un enfoque en resultados, aplicando buenas prácticas de programación, **metodologías ágiles** y pensamiento analítico orientado al negocio.
 
